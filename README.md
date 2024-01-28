@@ -6,7 +6,7 @@ vous devais avoir telecharger [Nasm](https://www.nasm.us/pub/nasm/releasebuilds/
 
 ## Pour lancer le code asm
 
-Il faut d'abord compresser en .obj aller sur nasm-shell assurez vous d'etre dans le bon dossier et taper cette commande
+Il faut d'abord compresser en .obj aller sur nasm-shell assurez vous d'etre dans le bon dossier et taper cette commande:
 
 ```
 nasm -f win64 Hello.asm -o Hello.obj
