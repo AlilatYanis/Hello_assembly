@@ -2,7 +2,7 @@
 
 ## Hello Word en assembleur Windows 64 bits
 
-vous devez avoir telecharger [Nasm](https://www.nasm.us/pub/nasm/releasebuilds/2.16.02rc7/win64/).
+vous devez avoir telechargé [Nasm](https://www.nasm.us/pub/nasm/releasebuilds/2.16.02rc7/win64/) et [GoLink](https://www.godevtool.com/Golink.zip).
 
 ## Pour lancer le code asm
 
